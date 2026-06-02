@@ -146,6 +146,19 @@ Framework: TensorFlow / Keras
 * Better calorie estimation
 * Larger training dataset
 * Mobile application deployment
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](home.png)
+
+### Pizza Prediction
+
+![Pizza Prediction](pizza-prediction.png)
+
+### Steak Prediction
+
+![Steak Prediction](Steak-prediction.png)
 
 ---
 
