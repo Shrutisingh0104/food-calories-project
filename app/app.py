@@ -18,8 +18,6 @@ class_names = [
     "steak",
     "sushi"
 ]
-
-# Calories mapping
 calories = {
     "hamburger": 295,
     "ice-cream": 207,
