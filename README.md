@@ -90,7 +90,7 @@ food-calories-project/
 ### Clone Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/Shrutisingh0104/food-calories-project.git
 ```
 
 ### Navigate to Project
