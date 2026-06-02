@@ -150,15 +150,15 @@ Framework: TensorFlow / Keras
 
 ### Home Page
 
-![Home Page](home.png)
+![Home Page](./screenshots/home.png)
 
 ### Pizza Prediction
 
-![Pizza Prediction](pizza-prediction.png)
+![Pizza Prediction](./screenshots/pizza-prediction.png)
 
 ### Steak Prediction
 
-![Steak Prediction](Steak-prediction.png)
+![Steak Prediction](./screenshots/Steak-prediction.png)
 
 ---
 
